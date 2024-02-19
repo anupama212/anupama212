@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anupama Nayak</h1>
-<h3 align="center">Technology Analyst at Citi India.</h3>
+<h3 align="center">Motivated to learn, grow and contribute to solving real-life problems using technology..</h3>
 
 <p align="left"> <a href="https://twitter.com/anupama212" target="blank"><img src="https://img.shields.io/twitter/follow/anupama212?logo=twitter&style=for-the-badge" alt="anupama212" /></a> </p>
 
